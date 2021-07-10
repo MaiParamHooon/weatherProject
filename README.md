@@ -1,6 +1,6 @@
 # Node.js
 
-This project is an anonymously secret sharing platform where no username and email ID is associated with the secret shared by any user.
+This project helps user know about the weather of a location.
 
 ### Usage
 
